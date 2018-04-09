@@ -3,6 +3,8 @@
 *.dll
 *.so
 *.dylib
+*.db
+jvn-search
 
 # Test binary, build with `go test -c`
 *.test
